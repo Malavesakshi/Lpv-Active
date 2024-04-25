@@ -1,0 +1,30 @@
+!nvcc --version
+
+!nvcc /content/VectorAdd1.cu -o /tmp//VectorAdd1
+
+cd/tmp
+
+ls
+
+!sudo chmod +x VectorAdd1
+
+!./VectorAdd1
+
+
+
+
+*** multipliction ****
+
+
+
+!nvcc //content/MartixMul.cu -o /tmp//MartixMul
+
+cd/tmp
+
+ls
+
+!sudo chmod +x MartixMul
+
+!./MartixMul
+
+
